@@ -1,0 +1,17 @@
+{
+  "name": "calidad",
+  "version": "1.0.0",
+  "description": "Nuestro Primer Codigo NODEJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "TitoCar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
